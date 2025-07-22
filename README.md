@@ -59,5 +59,5 @@
 ### 📫 Reach Me
 
 - 📧 Email: jozwiakaleksander@gmail.com
-- 💼 LinkedIn: [(linkedin.com/in/yourname)](https://www.linkedin.com/in/aleksander-jóźwiak-2b4682234)
+- 💼 LinkedIn: [Aleksander Jóźwiak](https://www.linkedin.com/in/aleksander-jóźwiak-2b4682234)
 
