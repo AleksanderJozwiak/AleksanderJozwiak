@@ -39,14 +39,6 @@
 
 ---
 
-### 🚀 Projects
-Here are a few things I've been working on:
-
-- 🔧 `ProjectName1` – C# backend API using Entity Framework  
-- 🎮 `UnityGameX` – Personal indie project built in Unity  
-- 📱 `MobileAppRN` – Cross-platform app in React Native  
-
----
 
 ### 📊 GitHub Stats
 
