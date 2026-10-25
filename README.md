@@ -1,63 +1,27 @@
-<h1 align="center">Hi 👋, I'm Aleksander Jóźwiak</h1>
+# Aleksander Jóźwiak
 
-<p align="center">
-  Fullstack Developer | Game Developer | Code Explorer  
-</p>
+Full-stack developer from Poznań, Poland. For 3.5 years I built web and mobile apps with **.NET (C#), Vue.js and React Native** at a software house, including AI features on top of LLM APIs. Outside work I make games in Unity and study cybersecurity (Master's, WSB Merito).
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AleksanderJozwiak&label=Profile%20views&color=0e75b6&style=flat" alt="AleksanderJozwiak" />
-</p>
+I'm currently **looking for a full-stack role** (Poznań, hybrid or remote).
 
----
+**Stack:** C#, .NET, Entity Framework, MS SQL · Vue.js, TypeScript · React Native, Expo · Docker, GitLab CI/CD · Playwright, Maestro, xUnit · Claude & Gemini APIs
 
-### 🧰 Tech Stack
+## Things I've built at work
 
-#### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
-</p>
+Commercial code lives in private repositories, so here's what it did:
 
-#### ⚙️ Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entity Framework-68217A?style=flat&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D" />
-</p>
+- **AI document configurator** – users describe a form in a chat and an LLM generates a near-complete configuration (SQL, controls, translations, layout, events). Setup time went from up to 1.5 h to under 30 min.
+- **VS Code extension for AI code review** – sends local git changes to an AI model and flags issues before code reaches the pipeline; later added as a CI/CD step.
+- **Driver mobile app** (React Native, Expo) – owned builds, store releases and Maestro E2E tests in CI.
+- Courier integrations (DHL, DPD), a built-in email client, a configurable survey engine and a Playwright test generator browser extension.
 
-#### 🎮 Game Development
-<p>
-  <img src="https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Game%20Dev-F28C28?style=flat&logo=gamedeveloper&logoColor=white" />
-</p>
+## Featured projects
 
----
+- **[Room Rumble](https://github.com/AleksanderJozwiak/room-rumble)** – FPS rogue-lite with procedural level generation; I built the level generator and the player mechanics. Unity, C#. [Play on itch.io](https://aleksanderjozwiak.itch.io/room-rumble)
+- **[ChessOOP](https://github.com/AleksanderJozwiak/ChessOOP)** – chess written from scratch with an object-oriented design: move validation, castling, en passant, mate and stalemate detection. C++, SFML.
 
+More projects, including games, 3D work and screenshots, are in my **[portfolio](https://aleksanderjozwiak.github.io/portfolio)**.
 
-### 📊 GitHub Stats
+## Contact
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AleksanderJozwiak&show_icons=true&theme=tokyonight&count_private=true" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=AleksanderJozwiak&theme=tokyonight" />
-</p>
-
----
-
-### ✨ Fun Fact
-
-🎮 I build games for fun and creative exploration — coding doesn’t always need a business plan 😉
-
----
-
-### 📫 Reach Me
-
-- 📧 Email: jozwiakaleksander@gmail.com
-- 💼 LinkedIn: [Aleksander Jóźwiak](https://www.linkedin.com/in/aleksander-jóźwiak-2b4682234)
-
+[jozwiakaleksander@gmail.com](mailto:jozwiakaleksander@gmail.com) · [LinkedIn](https://www.linkedin.com/in/aleksander-j%C3%B3%C5%BAwiak-2b4682234) · [Portfolio](https://aleksanderjozwiak.github.io/portfolio)
